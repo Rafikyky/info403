@@ -4,6 +4,8 @@
 #include "decode.h"
 #include "alchimie.h"
 
+// cest une test
+
 
 
 void elt2Char(ElementSort elt, char chaine[])
